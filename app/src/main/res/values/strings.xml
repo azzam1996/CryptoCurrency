@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CryptoCurrency</string>
+    <string name="no_data">No Data</string>
+    <string name="coins">COINS</string>
+
+    <string name="price">Price</string>
+    <string name="change_24hr">Change (24hr)</string>
+    <string name="market_cap">Market Cap</string>
+    <string name="volume_24hr">Volume (24hr)</string>
+    <string name="supply">Supply</string>
+
+    <string name="time_out">Time Out</string>
+    <string name="bad_request">Bad Request</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="server_error">Server Error</string>
+    <string name="no_internet">No Internet</string>
+    <string name="unauthorized">Unauthorized Access</string>
+    <string name="error_currency_not_found">Crypto Currency Not Found</string>
+</resources>
